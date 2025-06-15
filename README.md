@@ -50,6 +50,7 @@ To perform a comprehensive capacity planning analysis for electric vehicle distr
   - Univariate Analysis:
   	- Visualize the distribution of electric consumption
   	- Analyze the distribution of EV types, charging habit and consumption type.
+![EV Substations and charging station](images/EV%20Substations%20and%20charging%20station.png)
   - Code Snippet:
 	```python
     sns.set(style="whitegrid")
@@ -88,6 +89,7 @@ To perform a comprehensive capacity planning analysis for electric vehicle distr
 - Bivariate Analysis
   	- Use geospatial data to visualize the locations of substations and EV charging stations
   	- Analyze the Capacity of transmission lines
+  ![EV Substations and charging station](images/EV%20Substations%20and%20charging%20station.png)
 - Code Snippet:
    ```python
       #Convert the Dataframes into Geodataframes
