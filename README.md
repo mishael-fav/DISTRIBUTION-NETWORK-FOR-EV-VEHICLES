@@ -50,7 +50,7 @@ To perform a comprehensive capacity planning analysis for electric vehicle distr
   - Univariate Analysis:
   	- Visualize the distribution of electric consumption
   	- Analyze the distribution of EV types, charging habit and consumption type.
-![distribution of EV types, charging habit and consumption type](Distribution%20of%20EV%20types,%20charging%20habit%20and%20consumption%20type.png)
+    ![Distribution of EV types, charging habit and consumption type](images/Distribution_of_EV_types,_charging_habit_and_consumption_type.png)
   - Code Snippet:
 	```python
     sns.set(style="whitegrid")
