@@ -151,7 +151,10 @@ To perform a comprehensive capacity planning analysis for electric vehicle distr
 
 
 ## Key Insights to Optimizing Network Upgrades:
-✅For optimizing network upgrades, focus on substations with potential to have high Consumption_to_Capacity_Ratio. 
-✅Upgrading the transmission lines or adding additional capacity in these areas can hlp in managing the potential to have increased load effectively and ensure grid reliability.
+
+✅ For optimizing network upgrades, focus on substations with potential to have high Consumption_to_Capacity_Ratio. 
+
+✅ Upgrading the transmission lines or adding additional capacity in these areas can hlp in managing the potential to have increased load effectively and ensure grid reliability.
 #### Aditionally, lets note from the analysis;
-✅The Geographical distribution of EV substations; where EV charging stations are quite far from the substations.
+
+✅ The Geographical distribution of EV substations; where EV charging stations are quite far from the substations.
