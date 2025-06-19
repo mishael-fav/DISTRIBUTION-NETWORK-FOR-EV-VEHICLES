@@ -150,11 +150,35 @@ To perform a comprehensive capacity planning analysis for electric vehicle distr
 	```
 
 
-## Key Insights to Optimizing Network Upgrades:
+## Key Insights:
 
-✅ For optimizing network upgrades, focus on substations with potential to have high Consumption_to_Capacity_Ratio. 
+✅ Electricity Consumption: The elctricity consumption is mostly centerd around 500 kWh, with certain instances of higher consumption. This indicates varied demand at different times and locations.
 
-✅ Upgrading the transmission lines or adding additional capacity in these areas can hlp in managing the potential to have increased load effectively and ensure grid reliability.
-#### Aditionally, lets note from the analysis;
+✅ EV Types and Charging Habits: Electric Scooters is tyh most common types of EV's daily, indicating a consistent daily load on the distribution network.
 
-✅ The Geographical distribution of EV substations; where EV charging stations are quite far from the substations.
+✅ Consumer Type: Most Customers are Commercial consumers.
+
+✅ Geospatial Distribution: The Geographical distribution of EV substations; where EV charging stations are quite far from the substations.
+
+✅ Network Capacity: Some substations have a high Consumption_to_Capacity_Ratio, indicating potential bottlenecks and overloads in the network. There is also no correlation with the number of EVs per substation and the Consumption to Capcity Ratio, this shows that Number of EVs is not a factor for overload.
+
+✅ Weather Correlation: The correlation between weather conditions (temperature and precipitation) and electricity consumption is weak in the current dataset, suggesting that other factors might be more influential in affecting electricity consumption.
+
+
+## Based on the analysis done and the business problems at hand, all these should be incorporated into the business to Optimizing Network Upgrades:
+
+1. **Prioritize Substation Upgrades:** Prioritize upgrades at substations where the Consumption_to_Capacity_Ratio is high, indicating potential overloads. Upgrade the transmission lines because the EV Charging Stations are too far from their corresponding Substations.
+
+2. **Geospatial Analysis for Upgrade Planning:** Use geospatial analysis to determine the optimal locations for new substations or upgrades to existing ones. Consider factors like the proximity to high load demand areas (areas with high consumption to capcity ratio) and geographical constraints.
+
+3. **Demand Side Management:** Implement demand-side management strategies to balance the load on the grid. Encourage customers to charge their EVs during off-peak hours through
+Incentives or dynamic pricing.
+
+4. **Advanced Monitoring and Analytics:** Deploy advanced monitoring systems to continuously monitor the health and performance of the distribution network. Use analytics to predict potential issues and take preventive action.
+
+5. **Cost-Benefit Analysis:** Conduct a comprehensive cost-benefit analysis for different upgrade options. Consider factors like the cost of upgrades, operational costs, potential revenue from increased capacity, and the impact on service reliability and customer satisfaction.
+
+6. **Customer Engagement:** Engage with customers to understand their needs and expectations. Provide clear communication about network upgrades and how they will enhance service reliability and meet the growing demand for EV charging.
+
+7. **Continuous Improvement:** Continuously monitor and assess the performance of the distribution network. Gather feedback from customers and other stakeholders, and use this feedback to make further improvements and optimizations.
+
